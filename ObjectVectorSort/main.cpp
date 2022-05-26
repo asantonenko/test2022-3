@@ -100,5 +100,7 @@ int main()
         cout <<p->Info() <<endl;
     }
 
+    cout <<"Good bye!!!" <<endl;
+
     return 0;
 }
